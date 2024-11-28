@@ -1,2 +1,2 @@
 # projek-uts
-PROJEK UTS 
+link hosting https://hudzaifaharrantisi.github.io/projek-uts/

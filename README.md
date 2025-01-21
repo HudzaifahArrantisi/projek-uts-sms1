@@ -1,2 +1,2 @@
 # projek-uts
-link hosting https://hudzaifaharrantisi.github.io/projek-uts/
+(https://hudzaifaharrantisi.github.io/projek-uts-sms1/)
